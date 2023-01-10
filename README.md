@@ -1,0 +1,2 @@
+# PythonExcercises
+CompetitivenessProgramming
